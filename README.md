@@ -28,9 +28,8 @@ On Ubuntu OS that should look similar to this:
  /* running aws configure will prompt you for user credentials */
 
  aws configure
-
- <sub><sup>If you get errors when running application regarding to your AWS User settings, you can run: pip3 install --upgrade awscli</sup></sub>
 ```
+ <sub><sup>If you get errors when running application regarding to your AWS User settings, you can run: pip3 install --upgrade awscli</sup></sub>
 
 ## Installation
 Now when we are done with configuring our account we can install cloud_time_saver with this command:
