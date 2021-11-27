@@ -49,9 +49,9 @@ When you run cloud_time_saver you will have 3 options to choose from:
 ## help
 I recommend running the help command first, and seeing what kind of commands we can run. At first glance, this app may be a bit confusing, but a good look at the documentation should resolve disagreements.
 This is how the help page looks like:
-![image1](https://raw.githubusercontent.com/JaSamLudiMoskri/cloud_time_saver/main/Screenshot%202021-11-27%20141217.png)
+![image1](https://raw.githubusercontent.com/JaSamLudiMoskri/cloud_time_saver_prod/main/Screenshot%202021-11-27%20141217.png)
 
-![image2](https://raw.githubusercontent.com/JaSamLudiMoskri/cloud_time_saver/main/Screenshot%202021-11-27%20141300.png)
+![image2](https://raw.githubusercontent.com/JaSamLudiMoskri/cloud_time_saver_prod/main/Screenshot%202021-11-27%20141300.png)
 
 
  
