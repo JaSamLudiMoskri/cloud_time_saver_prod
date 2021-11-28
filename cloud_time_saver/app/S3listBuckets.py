@@ -16,9 +16,6 @@ def run():
             print(bucket["CreationDate"] , '\n')
     except ClientError as e:
         print(e)
-
-    
-    
     
     
     

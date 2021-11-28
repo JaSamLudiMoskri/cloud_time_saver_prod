@@ -5,7 +5,6 @@ bucet_name = input("Please enter name of your bucket")
 
 def run():
     try:
-        bucet_name = input("Please enter name of your bucket")
         def counter():
             n = 0
             while True:
