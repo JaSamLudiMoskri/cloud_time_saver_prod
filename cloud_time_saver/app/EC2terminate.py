@@ -8,6 +8,7 @@ from botocore.exceptions import ClientError
 ec2 = boto3.resource('ec2')
 
 id = input('Please provide id for instance you want to terminate: ')
+list(id)
 
 def run():
     try:
