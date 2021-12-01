@@ -26,7 +26,7 @@ def main():
             call(["python3" , "main.py" , "find_and_run_plugins" , command])
 
         elif pick == 'help':
-            call(["python" , "main.py" , "cheat_sheat"])
+            call(["python3" , "main.py" , "cheat_sheat"])
         elif pick == 'exit':
             sys.exit()
         else:
